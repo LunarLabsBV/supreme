@@ -1,0 +1,17 @@
+<
+universe-equation: e = mc^2
+>.march
+
+<
+Earth: universe-equation
+Moon: universe-equation
+-to-Moon-Region-Mars: universe-equation
+Mars: universe-equation
+>.october
+
+December<
+Earth-Stretch <= e=mc^2
+Moon-Stretch <= c=m2
+Nebula <= t=g3
+Mars <= 2tm
+>.augustus
